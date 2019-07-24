@@ -1,2 +1,2 @@
-# CodeWars
-A repo of the js toyproblems i have completed from code wars
+# JS-Toy-Probs
+Some Javascript toy problems with some new methods to minimize code
